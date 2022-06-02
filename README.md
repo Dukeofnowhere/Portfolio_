@@ -2,7 +2,7 @@
 # Portfolio
 # Link https://dukeofnowhere.github.io/Portfolio_/
 ## Description
-I have designed this website to showcase all of my work. It's sole purpose is to function as Porfolio where I can gather all of my hard work in an organized design and showcase my progress. 
+I have designed this website to showcase all of my hard work. The website's sole purpose is to function as a Porfolio where my projects and progress will be on display in an organized fashion for all of my future employers and fellow coders to see.
 
 ## How to Run
 Click the link above to navigate to the Homepage of my Portfolio website. 

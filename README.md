@@ -9,7 +9,7 @@ Click the link above to navigate to the Homepage of my Portfolio website.
 
 ## Roadmap
 I hope to add more visually appealing features and user friendly navigation options. 
-I also want to continue to update this website and use it as an opportunity to showcase my capabilitiies, skill set, and projects. 
+I also want to continue to update this website and use it as an opportunity to showcase my capabilitiies, skill sets, and projects. 
 
 ## License
 
